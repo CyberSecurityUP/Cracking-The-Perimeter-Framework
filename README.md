@@ -1,4 +1,4 @@
-# Red Team Ops - Cracking The Perimeter Framework by Joas
+# Red Team Ops - Breaking the Edge Framework by Joas
 
 ## Vulnerability Management
 
